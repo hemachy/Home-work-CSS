@@ -1,0 +1,65 @@
+/* common css starts here */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.post{
+    background-color:antiquewhite;
+    width: 700px;
+    height: 500px;
+    margin: 30px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+
+}
+.post1{
+    margin:20px 0 20px 60px;
+    padding: 5px 0 5px 5px;
+}
+.post2{
+    background-color: aliceblue;
+    height:380px;
+    width: 280px;
+    margin: 20px 60px 25px 0;
+    padding: 5px;
+    
+}
+.para{
+    color: darkgrey;
+    font-family:sans-serif;
+}
+.head{
+    font-family:Georgia, Times, serif;
+    font-weight: 600;
+    font-size: 40px;
+    margin:2px 0 0 0 ;
+}
+.para1{
+    background-color: rgb(33, 132, 107);
+    border-bottom: 2px solid #21846b;
+    height:30px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 120px;
+}
+.para2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color:darkgray ;
+}
+.rupes{
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    color: black;
+}
+.head1{
+    color: #21846b;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font:40px;
+    margin:20px ;
+}
